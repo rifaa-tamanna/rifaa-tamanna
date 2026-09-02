@@ -120,7 +120,7 @@ I enjoy learning new technologies, building websites, practicing coding, and tur
 
 ## 📚 My Learning Journey
 
-```text
+text
 HTML
   ↓
 CSS
@@ -175,4 +175,4 @@ Learn → Build → Practice → Improve → Repeat 🔁
 
 I'm currently focused on learning consistently, building projects, and improving my skills every day.
 
-<h3 align="center"> 💙 Thanks for visiting my profile! </h3> <p align="center"> <i>Keep Learning • Keep Building • Keep Growing 🚀</i> </p> ```
+<h3 align="center"> 💙 Thanks for visiting my profile! </h3> <p align="center"> <i>Keep Learning • Keep Building • Keep Growing 🚀</i> </p> 
