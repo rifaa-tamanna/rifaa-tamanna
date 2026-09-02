@@ -1,257 +1,145 @@
-<!-- ========================================================= -->
-<!--                     PROFILE HEADER                        -->
-<!-- ========================================================= -->
+<!-- ===================== BANNER ===================== -->
 
-<div align="center">
-
-# 👋 Hi, I'm Rifa Tamanna
-
-### 🌐 Full Stack Web Development Learner
-
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Development+Learner;Frontend+Development+Enthusiast;Learning+Every+Day+%F0%9F%9A%80;Building+Projects+Step+by+Step" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9FF&height=220&section=header&text=Rifa%20Tamanna&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Web%20Developer%20%7C%20Always%20Learning&descAlignY=58&descSize=18" width="100%"/>
 </p>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=rifaa-tamanna&label=Profile%20Views&color=0e75b6&style=flat-square" />
+<!-- ===================== INTRO ===================== -->
+
+<h1 align="center">Hi 👋, I'm Rifa Tamanna</h1>
+
+<h3 align="center">
+  Full Stack Web Developer | Learning & Building
+</h3>
+
+<p align="center">
+  <a href="https://github.com/rifaa-tamanna">
+    <img src="https://komarev.com/ghpvc/?username=rifaa-tamanna&label=Profile%20Views&color=6C63FF&style=flat" alt="Profile Views"/>
+  </a>
 </p>
 
-</div>
+---
 
+## 👩‍💻 About Me
 
-<!-- ========================================================= -->
-<!--                         ABOUT ME                           -->
-<!-- ========================================================= -->
+I'm **Rifa Tamanna**, a passionate aspiring **Full Stack Web Developer** who enjoys turning ideas into functional, modern, and user-friendly web applications.
 
-## 🌸 About Me
+I'm currently focused on strengthening my frontend and backend development skills while building real-world projects and improving my problem-solving abilities.
 
-Hi, I'm **Rifa Tamanna** 👋
+* 🌱 I’m currently learning **Full Stack Web Development**
+* ⚛️ Exploring **React.js** and modern frontend development
+* 🚀 Exploring **Next.js**
+* 📘 Currently improving my **JavaScript & TypeScript** skills
+* 🛠️ Building real-world projects to improve my development skills
+* 💡 Interested in creating clean, responsive and user-friendly websites
+* 🎯 My goal is to become a professional **Full Stack Web Developer**
+* 🤝 Open to learning, collaboration and new opportunities
 
-I'm currently learning **Full Stack Web Development** and continuously working on improving my programming and web development skills.
+---
 
-🎓 I'm learning Web Development through **Programming Hero**.
+## 🛠️ Skills & Technologies
 
-💻 My current learning journey includes:
+<p align="center">
 
-- 🌐 HTML
-- 🎨 CSS
-- ⚡ JavaScript
-- 🔥 ES6
-- 🟦 TypeScript
-- 🎨 Tailwind CSS
-- ⚛️ React
+  <img src="https://skillicons.dev/icons?i=html" height="50" alt="HTML"/>
+  <img src="https://skillicons.dev/icons?i=css" height="50" alt="CSS"/>
+  <img src="https://skillicons.dev/icons?i=javascript" height="50" alt="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=typescript" height="50" alt="TypeScript"/>
+  <img src="https://skillicons.dev/icons?i=react" height="50" alt="React"/>
+  <img src="https://skillicons.dev/icons?i=nextjs" height="50" alt="Next.js"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="Node.js"/>
+  <img src="https://skillicons.dev/icons?i=express" height="50" alt="Express.js"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="MongoDB"/>
+  <img src="https://skillicons.dev/icons?i=git" height="50" alt="Git"/>
+  <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub"/>
+  <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="VS Code"/>
 
-I enjoy learning new technologies, practicing coding, building projects,
-and turning ideas into real-world web applications.
+</p>
 
-🚀 My goal is to become a skilled **Full Stack Web Developer** and create
-modern, responsive, and user-friendly web applications.
+---
 
+## 🚀 Current Activities
 
-<!-- ========================================================= -->
-<!--                  CURRENT ENDEAVORS                         -->
-<!-- ========================================================= -->
+* 🔭 Currently working on **Full Stack Web Development projects**
+* 🌱 Learning **Next.js & TypeScript**
+* 💻 Practicing **JavaScript problem solving**
+* ⚛️ Building projects with **React**
+* 🗄️ Learning backend development with **Node.js, Express.js & MongoDB**
+* 📚 Following modern web development practices
+* 🎯 Continuously improving my coding and development skills
 
-## 🚀 Current Endeavors & Recent Learning
+---
 
-- 🟣 **Frontend Development:** Currently strengthening my HTML, CSS and JavaScript fundamentals.
+## 📊 GitHub Statistics
 
-- ⚡ **JavaScript & ES6:** Practicing modern JavaScript concepts and improving my programming logic.
+<p align="center">
 
-- 🟦 **TypeScript:** Currently learning TypeScript and understanding type-safe JavaScript development.
+  <img src="https://github-readme-stats.vercel.app/api?username=rifaa-tamanna&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
 
-- 🎨 **Tailwind CSS:** Learning how to build modern and responsive user interfaces efficiently.
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifaa-tamanna&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 
-- ⚛️ **React:** Exploring React and learning component-based frontend development.
+</p>
 
-- 🌐 **Full Stack Development:** Working towards becoming a complete Full Stack Web Developer.
+---
 
-- 🎓 **Programming Hero:** Following a structured Full Stack Web Development learning journey.
+## 🔥 GitHub Streak
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=rifaa-tamanna&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
 
-<!-- ========================================================= -->
-<!--                       FOCUS AREAS                          -->
-<!-- ========================================================= -->
+---
 
-## 💡 My Focus Areas
+## 🏆 GitHub Trophy
 
-- 🌐 Web Development
-- 🎨 Frontend Development
-- ⚡ JavaScript & ES6
-- 🟦 TypeScript
-- 🎨 Tailwind CSS
-- ⚛️ React
-- 📱 Responsive Web Design
-- 🚀 Full Stack Web Development
-- 🧠 Problem Solving
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rifaa-tamanna&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5" alt="GitHub Trophies"/>
+</p>
 
+---
 
-<!-- ========================================================= -->
-<!--                LANGUAGES & TECHNOLOGIES                    -->
-<!-- ========================================================= -->
+## 🌐 Connect With Me
 
-## 💻 Languages & Technologies
+<p align="center">
 
-<div align="center">
+<a href="https://github.com/rifaa-tamanna">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-<img src="https://skillicons.dev/icons?i=html" width="55" />
-<img src="https://skillicons.dev/icons?i=css" width="55" />
-<img src="https://skillicons.dev/icons?i=javascript" width="55" />
-<img src="https://skillicons.dev/icons?i=typescript" width="55" />
-<img src="https://skillicons.dev/icons?i=tailwind" width="55" />
-<img src="https://skillicons.dev/icons?i=react" width="55" />
+<a href="https://www.linkedin.com/in/rifaa-tamanna/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-</div>
+<a href="mailto:YOUR_EMAIL@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
+</p>
 
-<!-- ========================================================= -->
-<!--                         TOOLS                             -->
-<!-- ========================================================= -->
+---
 
-## 🛠️ Tools & Platforms
+## 📍 Location & Contact
 
-<div align="center">
+* 📍 **Location:** Bangladesh
+* 📧 **Email:** [YOUR_EMAIL@gmail.com](mailto:YOUR_EMAIL@gmail.com)
+* 💼 **LinkedIn:** [Rifa Tamanna](https://www.linkedin.com/in/rifaa-tamanna/)
+* 🐙 **GitHub:** [rifaa-tamanna](https://github.com/rifaa-tamanna)
 
-<img src="https://skillicons.dev/icons?i=vscode" width="55" />
-<img src="https://skillicons.dev/icons?i=git" width="55" />
-<img src="https://skillicons.dev/icons?i=github" width="55" />
-<img src="https://skillicons.dev/icons?i=figma" width="55" />
+---
 
-</div>
+## 💭 Developer Quote
 
+<p align="center">
+  <i>"Code. Learn. Build. Improve. Repeat."</i>
+</p>
 
-<!-- ========================================================= -->
-<!--                    LEARNING JOURNEY                        -->
-<!-- ========================================================= -->
+---
 
-## 📚 My Learning Journey
+<p align="center">
+  Thanks for visiting my profile! 💙
+</p>
 
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9FF&height=100&section=footer" width="100%"/>
+</p>
 
-text
-HTML
-  ↓
-CSS
-  ↓
-JavaScript
-  ↓
-ES6
-  ↓
-TypeScript
-  ↓
-Tailwind CSS
-  ↓
-React
-  ↓
-Full Stack Web Development 
-
-🎓 Learning Platform
-
-Programming Hero
-
-</div> <!-- ========================================================= --> <!-- FEATURED PROJECTS --> <!-- ========================================================= -->
-📂 Featured Projects
-
-🚧 I'm currently learning and building projects as part of my Full Stack Web Development journey.
-
-<table> <tr> <td width="50%">
-🌐 Project 01
-
-Coming Soon 🚀
-
-A web development project built while learning modern frontend technologies.
-
-Technologies:
-
-HTML CSS JavaScript
-
-<br>
-
-🔗 GitHub: Coming Soon
-
-</td> <td width="50%">
-⚛️ Project 02
-
-Coming Soon 🚀
-
-A responsive web application built while practicing React and modern UI development.
-
-Technologies:
-
-React Tailwind CSS JavaScript
-
-<br>
-
-🔗 GitHub: Coming Soon
-
-</td> </tr> <tr> <td width="50%">
-🟦 Project 03
-
-Coming Soon 🚀
-
-A project created while learning TypeScript and improving programming skills.
-
-Technologies:
-
-TypeScript React Tailwind CSS
-
-<br>
-
-🔗 GitHub: Coming Soon
-
-</td> <td width="50%">
-🚀 More Projects
-
-More projects will be added as I continue my Full Stack Web Development journey.
-
-Keep Learning → Keep Building → Keep Improving
-
-</td> </tr> </table> <!-- ========================================================= --> <!-- GITHUB STATS --> <!-- ========================================================= -->
-📊 GitHub Stats
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=rifaa-tamanna&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifaa-tamanna&layout=compact&theme=tokyonight&hide_border=true" width="42%" />
-
-</div> <!-- ========================================================= --> <!-- GITHUB STREAK --> <!-- ========================================================= -->
-🔥 GitHub Streak
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=rifaa-tamanna&theme=tokyonight&hide_border=true" width="70%" />
-
-</div> <!-- ========================================================= --> <!-- GITHUB TROPHY --> <!-- ========================================================= -->
-🏆 GitHub Trophies
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=rifaa-tamanna&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5" width="90%" />
-
-</div> <!-- ========================================================= --> <!-- CONTRIBUTION GRAPH --> <!-- ========================================================= -->
-📈 GitHub Contributions
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rifaa-tamanna&theme=tokyo-night&hide_border=true" width="95%" />
-
-</div> <!-- ========================================================= --> <!-- CONTRIBUTION SNAKE --> <!-- ========================================================= -->
-🐍 My Contribution Journey
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/rifaa-tamanna/rifaa-tamanna/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-
-</div> <!-- ========================================================= --> <!-- CONNECT WITH ME --> <!-- ========================================================= -->
-🤝 Connect With Me
-<div align="center"> <a href="https://github.com/rifaa-tamanna"> <img src="https://skillicons.dev/icons?i=github" width="50" /> </a>
-
-  
-
-<a href="https://www.linkedin.com/in/rifaa-tamanna/"> <img src="https://skillicons.dev/icons?i=linkedin" width="50" /> </a> </div> <!-- ========================================================= --> <!-- MY GOAL --> <!-- ========================================================= -->
-🌱 My Goal
-<div align="center">
-Learn → Build → Practice → Improve → Repeat 🔁
-
-I'm focused on learning consistently, building real projects,
-and improving my skills every day.
-
-</div> <!-- ========================================================= --> <!-- FOOTER --> <!-- ========================================================= --> <br> <div align="center">
-💙 Thanks for visiting my profile!
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Keep+Learning+%F0%9F%93%9A;Keep+Building+%F0%9F%9A%80;Keep+Growing+%F0%9F%8C%B1" /> </div>
