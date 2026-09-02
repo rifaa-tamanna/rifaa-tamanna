@@ -1,8 +1,8 @@
-<img width="1983" height="793" alt="banner-pic" src="https://github.com/user-attachments/assets/4cd7b179-83f3-4a02-9c44-daa1fed86562" />
+
 <!-- ===================== BANNER ===================== -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9FF&height=220&section=header&text=Rifa%20Tamanna&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Web%20Developer%20%7C%20Always%20Learning&descAlignY=58&descSize=18" width="100%"/>
+<img width="1983" height="793" alt="banner-pic" src="https://github.com/user-attachments/assets/4cd7b179-83f3-4a02-9c44-daa1fed86562" />
 </p>
 
 <!-- ===================== INTRO ===================== -->
