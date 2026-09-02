@@ -97,14 +97,6 @@ I'm currently focused on strengthening my frontend and backend development skill
 
 ---
 
-## 🔥 Contribution Activity
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=rifaa-tamanna&theme=tokyonight&hide_border=true" width="90%" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="start">
