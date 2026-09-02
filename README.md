@@ -1,26 +1,178 @@
-<h1 align="center">Hi 👋, Rifa Tamanna</h1>
-<h3 align="center">Aspiring Full Stack Web Developer</h3>
+<!-- ===================== PROFILE HEADER ===================== -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rifaa-tamanna&label=Profile%20views&color=0e75b6&style=flat" alt="rifaa-tamanna" /> </p>
+<h1 align="center">
+  Hi 👋, I'm Rifa Tamanna
+</h1>
 
-- 👩‍💻 I'm currently learning **Full Stack Web Development through Programming Hero.**
+<h3 align="center">
+  🌐 Full Stack Web Development Learner
+</h3>
 
-- 📚 Currently focusing on **JavaScript, TypeScript and React.**
-
-- 🌱 I'm currently learning **HTML, CSS, JavaScript, ES6, TypeScript, Tailwind CSS and React.**
-
-- 💻 I'm practicing by **solving problems and building small exercises while learning.**
-
-- 🎯 My goal is to become a **skilled Full Stack Web Developer.**
-
-- 📫 How to reach me **rifa.tamanna8853@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rifaa-tamanna/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rifaa-tamanna/" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Development+Learner;Frontend+Development+Enthusiast;Learning+Every+Day+%F0%9F%9A%80;Building+My+Skills+Step+by+Step" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rifaa-tamanna&show_icons=true&locale=en" alt="rifaa-tamanna" /></p>
+
+<!-- ===================== ABOUT ME ===================== -->
+
+## 🌸 About Me
+
+Hi, I'm **Rifa Tamanna** 👋
+
+I'm currently learning **Full Stack Web Development** and working on improving my programming and web development skills step by step.
+
+🎓 I'm learning Full Stack Web Development through **Programming Hero**.
+
+💻 Currently learning:
+
+- 🌐 HTML
+- 🎨 CSS
+- ⚡ JavaScript
+- 🔥 ES6
+- 🟦 TypeScript
+- 🎨 Tailwind CSS
+- ⚛️ React
+
+I enjoy learning new technologies, building websites, practicing coding, and turning ideas into real web projects.
+
+🚀 My current goal is to become a skilled **Full Stack Web Developer** and build modern, responsive, and user-friendly web applications.
+
+
+<!-- ===================== CURRENTLY LEARNING ===================== -->
+
+## 🚀 Currently Learning & Exploring
+
+- ⚡ JavaScript & ES6
+- 🟦 TypeScript
+- 🎨 Tailwind CSS
+- ⚛️ React
+- 🌐 Full Stack Web Development
+- 🧠 Programming & Problem Solving
+- 📱 Responsive Web Design
+
+
+<!-- ===================== SKILLS ===================== -->
+
+## 💻 Languages & Technologies
+
+<p align="center">
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+<img src="https://skillicons.dev/icons?i=html" width="55" />
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+<img src="https://skillicons.dev/icons?i=css" width="55" />
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<img src="https://skillicons.dev/icons?i=javascript" width="55" />
+</a>
+
+<a href="https://www.typescriptlang.org/">
+<img src="https://skillicons.dev/icons?i=typescript" width="55" />
+</a>
+
+<a href="https://tailwindcss.com/">
+<img src="https://skillicons.dev/icons?i=tailwind" width="55" />
+</a>
+
+<a href="https://react.dev/">
+<img src="https://skillicons.dev/icons?i=react" width="55" />
+</a>
+
+</p>
+
+
+<!-- ===================== TOOLS ===================== -->
+
+## 🛠️ Tools & Technologies
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=vscode" width="55" />
+<img src="https://skillicons.dev/icons?i=git" width="55" />
+<img src="https://skillicons.dev/icons?i=github" width="55" />
+<img src="https://skillicons.dev/icons?i=figma" width="55" />
+
+</p>
+
+
+<!-- ===================== FOCUS AREAS ===================== -->
+
+## 🎯 My Focus Areas
+
+| Area | What I'm Doing |
+|---|---|
+| 🌐 Web Development | Learning modern web development |
+| 🎨 Frontend | Building responsive and user-friendly interfaces |
+| ⚡ JavaScript | Improving programming fundamentals |
+| 🟦 TypeScript | Learning type-safe JavaScript |
+| ⚛️ React | Learning component-based development |
+| 🚀 Full Stack | Working towards becoming a Full Stack Developer |
+
+
+<!-- ===================== LEARNING JOURNEY ===================== -->
+
+## 📚 My Learning Journey
+
+```text
+HTML
+  ↓
+CSS
+  ↓
+JavaScript
+  ↓
+ES6
+  ↓
+TypeScript
+  ↓
+Tailwind CSS
+  ↓
+React
+  ↓
+Full Stack Web Development 🚀
+
+
+🎓 Learning Platform: Programming Hero
+
+<!-- ===================== GITHUB STATS ===================== -->
+📊 GitHub Stats
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="42%" />
+
+</p> <!-- ===================== STREAK ===================== -->
+🔥 GitHub Streak
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" width="70%" />
+
+</p> <!-- ===================== CONTRIBUTION GRAPH ===================== -->
+📈 GitHub Contributions
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" width="95%" />
+
+</p> <!-- ===================== GITHUB TROPHY ===================== -->
+🏆 GitHub Trophies
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5" width="90%" />
+
+</p> <!-- ===================== CONNECT ===================== -->
+🤝 Connect With Me
+<p align="center"> <a href="https://github.com/YOUR_GITHUB_USERNAME"> <img src="https://skillicons.dev/icons?i=github" width="50" /> </a> <a href="https://www.linkedin.com/"> <img src="https://skillicons.dev/icons?i=linkedin" width="50" /> </a> </p> <!-- ===================== GOAL ===================== -->
+🌱 My Goal
+
+Learn → Build → Practice → Improve → Repeat 🔁
+
+I'm currently focused on learning consistently, building projects, and improving my skills every day.
+
+<h3 align="center"> 💙 Thanks for visiting my profile! </h3> <p align="center"> <i>Keep Learning • Keep Building • Keep Growing 🚀</i> </p> ```
