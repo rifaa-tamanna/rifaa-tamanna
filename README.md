@@ -1,3 +1,4 @@
+<img width="1983" height="793" alt="banner-pic" src="https://github.com/user-attachments/assets/4cd7b179-83f3-4a02-9c44-daa1fed86562" />
 <!-- ===================== BANNER ===================== -->
 
 <p align="center">
