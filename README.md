@@ -6,17 +6,21 @@
 
 <!-- ===================== INTRO ===================== -->
 
-<h1 align="center">Hi 👋, I'm Rifa Tamanna</h1>
+<div align="center">
 
-<h3 align="center">
-  Full Stack Web Developer | Learning & Building
-</h3>
+# 👋 Hi, I'm Rifa Tamanna
 
-<p align="center">
-  <a href="https://github.com/rifaa-tamanna">
-    <img src="https://komarev.com/ghpvc/?username=rifaa-tamanna&label=Profile%20Views&color=6C63FF&style=flat" alt="Profile Views"/>
-  </a>
+### 🌐 Full Stack Web Development Learner
+
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Development+Learner;Frontend+Development+Enthusiast;Learning+Every+Day+%F0%9F%9A%80;Building+Projects+Step+by+Step" />
 </p>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=rifaa-tamanna&label=Profile%20Views&color=0e75b6&style=flat-square" />
+</p>
+
+</div>
 
 ---
 
