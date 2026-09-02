@@ -43,7 +43,7 @@ I'm currently focused on strengthening my frontend and backend development skill
 
 ## 🛠️ Skills & Technologies
 
-<p align="center">
+<p align="start">
 
   <img src="https://skillicons.dev/icons?i=html" height="50" alt="HTML"/>
   <img src="https://skillicons.dev/icons?i=css" height="50" alt="CSS"/>
@@ -62,16 +62,21 @@ I'm currently focused on strengthening my frontend and backend development skill
 
 ---
 
-## 🚀 Current Activities
+<!-- ========================================================= -->
+<!--                       FOCUS AREAS                          -->
+<!-- ========================================================= -->
 
-* 🔭 Currently working on **Full Stack Web Development projects**
-* 🌱 Learning **Next.js & TypeScript**
-* 💻 Practicing **JavaScript problem solving**
-* ⚛️ Building projects with **React**
-* 🗄️ Learning backend development with **Node.js, Express.js & MongoDB**
-* 📚 Following modern web development practices
-* 🎯 Continuously improving my coding and development skills
+## 💡 My Focus Areas
 
+- 🌐 Web Development
+- 🎨 Frontend Development
+- ⚡ JavaScript & ES6
+- 🟦 TypeScript
+- 🎨 Tailwind CSS
+- ⚛️ React
+- 📱 Responsive Web Design
+- 🚀 Full Stack Web Development
+- 🧠 Problem Solving
 ---
 
 ## 📊 GitHub Statistics
