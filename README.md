@@ -1,7 +1,7 @@
 <!-- ===================== BANNER ===================== -->
 
 <p align="center">
-<img src="https://banner-pic.vercel.app/api?type=waving&color=0:6C63FF,100:00C9FF&height=220&section=header&text=Rifa%20Tamanna&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Web%20Developer%20%7C%20Always%20Learning&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9FF&height=220&section=header&text=Rifa%20Tamanna&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Web%20Developer%20%7C%20Always%20Learning&descAlignY=58&descSize=18" width="100%"/>
 </p>
 
 <!-- ===================== INTRO ===================== -->
@@ -77,31 +77,14 @@ I'm currently focused on strengthening my frontend and backend development skill
 - 📱 Responsive Web Design
 - 🚀 Full Stack Web Development
 - 🧠 Problem Solving
+  
 ---
 
-📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=rifaa-tamanna&show_icons=true&theme=tokyonight&hide_border=true" alt="Rifa Tamanna's GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifaa-tamanna&layout=compact&theme=tokyonight&hide_border=true" alt="Rifa Tamanna's Top Languages" />
-
-</div>
----
 
 ## 🔥 GitHub Streak
 
 <p align="start">
   <img src="https://streak-stats.demolab.com?user=rifaa-tamanna&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
-
-## 🏆 GitHub Trophy
-
-<p align="start">
-  <img src="https://github-profile-trophy.vercel.app/?username=rifaa-tamanna&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5" alt="GitHub Trophies"/>
 </p>
 
 ---
