@@ -89,14 +89,6 @@ I'm currently focused on strengthening my frontend and backend development skill
 
 ---
 
-## 📊 GitHub Contributions
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rifaa-tamanna&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="start">
