@@ -1,8 +1,10 @@
 
+
+
 <!-- ===================== BANNER ===================== -->
 
 <p align="center">
-<img width="1983" height="793" alt="banner-pic" src="https://github.com/user-attachments/assets/4cd7b179-83f3-4a02-9c44-daa1fed86562" />
+<img width="1983" height="793" alt="banner-picc" src="https://github.com/user-attachments/assets/35e36cbc-78f9-4567-9c6b-d69fbd0494e5" />
 </p>
 
 <!-- ===================== INTRO ===================== -->
