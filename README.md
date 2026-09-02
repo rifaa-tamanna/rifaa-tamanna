@@ -79,15 +79,37 @@ I'm currently focused on strengthening my frontend and backend development skill
 - 🧠 Problem Solving
 ---
 
-## 📊 GitHub Statistics
+📊 GitHub Statistics
 
-<p align="center">
+<div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=rifaa-tamanna&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+<a href="https://github.com/rifaa-tamanna"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rifaa-tamanna&show_icons=true&include_all_commits=true&count_private=false&theme=tokyonight&hide_border=true&rank_icon=github" /> </a>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifaa-tamanna&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+<a href="https://github.com/rifaa-tamanna"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifaa-tamanna&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" /> </a>
 
-</p>
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rifaa-tamanna&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=rifaa-tamanna&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+</div>
 
 ---
 
