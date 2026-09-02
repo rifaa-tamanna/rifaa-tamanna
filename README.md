@@ -118,7 +118,7 @@ I'm currently focused on strengthening my frontend and backend development skill
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:rifa.tamanna8853@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
@@ -129,7 +129,7 @@ I'm currently focused on strengthening my frontend and backend development skill
 ## 📍 Location & Contact
 
 * 📍 **Location:** Bangladesh
-* 📧 **Email:** [YOUR_EMAIL@gmail.com](mailto:YOUR_EMAIL@gmail.com)
+* 📧 **Email:** [YOUR_EMAIL@gmail.com](mailto:rifa.tamanna8853@gmail.com)
 * 💼 **LinkedIn:** [Rifa Tamanna](https://www.linkedin.com/in/rifaa-tamanna/)
 * 🐙 **GitHub:** [rifaa-tamanna](https://github.com/rifaa-tamanna)
 
@@ -143,7 +143,7 @@ I'm currently focused on strengthening my frontend and backend development skill
 
 ---
 
-<p align="center">
+<p align="start">
   Thanks for visiting my profile! 💙
 </p>
 
