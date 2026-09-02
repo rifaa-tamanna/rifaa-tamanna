@@ -92,7 +92,7 @@ I'm currently focused on strengthening my frontend and backend development skill
 
 ## 🔥 GitHub Streak
 
-<p align="center">
+<p align="start">
   <img src="https://streak-stats.demolab.com?user=rifaa-tamanna&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
@@ -100,7 +100,7 @@ I'm currently focused on strengthening my frontend and backend development skill
 
 ## 🏆 GitHub Trophy
 
-<p align="center">
+<p align="start">
   <img src="https://github-profile-trophy.vercel.app/?username=rifaa-tamanna&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5" alt="GitHub Trophies"/>
 </p>
 
@@ -108,7 +108,7 @@ I'm currently focused on strengthening my frontend and backend development skill
 
 ## 🌐 Connect With Me
 
-<p align="center">
+<p align="start">
 
 <a href="https://github.com/rifaa-tamanna">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -137,7 +137,7 @@ I'm currently focused on strengthening my frontend and backend development skill
 
 ## 💭 Developer Quote
 
-<p align="center">
+<p align="start">
   <i>"Code. Learn. Build. Improve. Repeat."</i>
 </p>
 
