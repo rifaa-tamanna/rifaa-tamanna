@@ -115,7 +115,7 @@ I'm currently focused on strengthening my frontend and backend development skill
 ## 📍 Location & Contact
 
 * 📍 **Location:** Bangladesh
-* 📧 **Email:** [YOUR_EMAIL@gmail.com](mailto:rifa.tamanna8853@gmail.com)
+* 📧 **Email:** (mailto:rifa.tamanna8853@gmail.com)
 * 💼 **LinkedIn:** [Rifa Tamanna](https://www.linkedin.com/in/rifaa-tamanna/)
 * 🐙 **GitHub:** [rifaa-tamanna](https://github.com/rifaa-tamanna)
 
